@@ -1,0 +1,13 @@
+@media (min-width: 769px) and (max-width: 991px) {
+    .custom-margin {
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+  }
+
+  .bg-image {
+    background-image: url(img/bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
